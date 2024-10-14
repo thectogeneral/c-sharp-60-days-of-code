@@ -1,0 +1,14 @@
+/Users/mac/Desktop/Work/Personal/C sharp/Tutorial/Day 7/bin/Debug/net8.0/Tutorial
+/Users/mac/Desktop/Work/Personal/C sharp/Tutorial/Day 7/bin/Debug/net8.0/Tutorial.deps.json
+/Users/mac/Desktop/Work/Personal/C sharp/Tutorial/Day 7/bin/Debug/net8.0/Tutorial.runtimeconfig.json
+/Users/mac/Desktop/Work/Personal/C sharp/Tutorial/Day 7/bin/Debug/net8.0/Tutorial.dll
+/Users/mac/Desktop/Work/Personal/C sharp/Tutorial/Day 7/bin/Debug/net8.0/Tutorial.pdb
+/Users/mac/Desktop/Work/Personal/C sharp/Tutorial/Day 7/obj/Debug/net8.0/Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Work/Personal/C sharp/Tutorial/Day 7/obj/Debug/net8.0/Tutorial.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Work/Personal/C sharp/Tutorial/Day 7/obj/Debug/net8.0/Tutorial.AssemblyInfo.cs
+/Users/mac/Desktop/Work/Personal/C sharp/Tutorial/Day 7/obj/Debug/net8.0/Tutorial.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Work/Personal/C sharp/Tutorial/Day 7/obj/Debug/net8.0/Tutorial.dll
+/Users/mac/Desktop/Work/Personal/C sharp/Tutorial/Day 7/obj/Debug/net8.0/refint/Tutorial.dll
+/Users/mac/Desktop/Work/Personal/C sharp/Tutorial/Day 7/obj/Debug/net8.0/Tutorial.pdb
+/Users/mac/Desktop/Work/Personal/C sharp/Tutorial/Day 7/obj/Debug/net8.0/Tutorial.genruntimeconfig.cache
+/Users/mac/Desktop/Work/Personal/C sharp/Tutorial/Day 7/obj/Debug/net8.0/ref/Tutorial.dll
