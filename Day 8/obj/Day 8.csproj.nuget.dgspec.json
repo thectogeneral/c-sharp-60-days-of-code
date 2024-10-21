@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 1 - Hello World/Day 1.csproj": {}
+    "/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 8/Day 8.csproj": {}
   },
   "projects": {
-    "/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 1 - Hello World/Day 1.csproj": {
+    "/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 8/Day 8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 1 - Hello World/Day 1.csproj",
-        "projectName": "Day 1",
-        "projectPath": "/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 1 - Hello World/Day 1.csproj",
+        "projectUniqueName": "/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 8/Day 8.csproj",
+        "projectName": "Day 8",
+        "projectPath": "/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 8/Day 8.csproj",
         "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 1 - Hello World/obj/",
+        "outputPath": "/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 8/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mac/.nuget/NuGet/NuGet.Config"
