@@ -1,0 +1,14 @@
+/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 9 - Methods and Properties/bin/Debug/net8.0/Day 9 - Methods and Properties
+/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 9 - Methods and Properties/bin/Debug/net8.0/Day 9 - Methods and Properties.deps.json
+/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 9 - Methods and Properties/bin/Debug/net8.0/Day 9 - Methods and Properties.runtimeconfig.json
+/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 9 - Methods and Properties/bin/Debug/net8.0/Day 9 - Methods and Properties.dll
+/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 9 - Methods and Properties/bin/Debug/net8.0/Day 9 - Methods and Properties.pdb
+/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 9 - Methods and Properties/obj/Debug/net8.0/Day 9 - Methods and Properties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 9 - Methods and Properties/obj/Debug/net8.0/Day 9 - Methods and Properties.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 9 - Methods and Properties/obj/Debug/net8.0/Day 9 - Methods and Properties.AssemblyInfo.cs
+/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 9 - Methods and Properties/obj/Debug/net8.0/Day 9 - Methods and Properties.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 9 - Methods and Properties/obj/Debug/net8.0/Day 9 - Methods and Properties.dll
+/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 9 - Methods and Properties/obj/Debug/net8.0/refint/Day 9 - Methods and Properties.dll
+/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 9 - Methods and Properties/obj/Debug/net8.0/Day 9 - Methods and Properties.pdb
+/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 9 - Methods and Properties/obj/Debug/net8.0/Day 9 - Methods and Properties.genruntimeconfig.cache
+/Users/mac/Desktop/Work/Personal/C sharp/c-sharp-60-days-of-code/Day 9 - Methods and Properties/obj/Debug/net8.0/ref/Day 9 - Methods and Properties.dll
